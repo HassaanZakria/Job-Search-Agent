@@ -1,0 +1,74 @@
+{
+  "invoice_1.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-2025-0042",
+    "date": "2025-01-15",
+    "company": "ACME Supplies Ltd",
+    "total_amount": 385.0
+  },
+  "invoice_2.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-8801",
+    "date": "2025-03-10",
+    "company": "Globex Corporation",
+    "total_amount": 1966.5
+  },
+  "invoice_3.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-2024-77C",
+    "date": "December 3, 2024",
+    "company": "Pinnacle Printing Co",
+    "total_amount": 1250.0
+  },
+  "legal_contract.txt": {
+    "class": "Other"
+  },
+  "meeting_notes.txt": {
+    "class": "Other"
+  },
+  "research_article.txt": {
+    "class": "Other"
+  },
+  "resume_1.txt": {
+    "class": "Resume",
+    "name": "JOHN MICHAEL DOE",
+    "email": "johndoe@email.com",
+    "phone": "(415) 555-0192",
+    "experience_years": 7
+  },
+  "resume_2.txt": {
+    "class": "Resume",
+    "name": "PRIYA SHARMA",
+    "email": "priya.sharma@outlook.com",
+    "phone": "+44 7700 900 456",
+    "experience_years": 4
+  },
+  "resume_3.txt": {
+    "class": "Resume",
+    "name": "CARLOS MENDEZ",
+    "email": "carlos.mendez88@gmail.com",
+    "phone": "(305) 678-4321",
+    "experience_years": 12
+  },
+  "utility_bill_1.txt": {
+    "class": "Utility Bill",
+    "account_number": "45-8812-00321",
+    "date": "February 3, 2025",
+    "usage_kwh": 442.0,
+    "amount_due": 76.42
+  },
+  "utility_bill_2.txt": {
+    "class": "Utility Bill",
+    "account_number": "GE-00928-77",
+    "date": "2025-02-05",
+    "usage_kwh": 615.0,
+    "amount_due": 180.25
+  },
+  "utility_bill_3.txt": {
+    "class": "Utility Bill",
+    "account_number": "WTR-0044-1128",
+    "date": "January 18, 2025",
+    "usage_kwh": null,
+    "amount_due": 123.65
+  }
+}

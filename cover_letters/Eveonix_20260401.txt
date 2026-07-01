@@ -1,0 +1,5 @@
+Job  : [Hiring] Junior Full-Stack Developer (AI & Automation focus) @ Eveonix
+URL  : https://pk.linkedin.com/jobs/view/hiring-junior-full-stack-developer-ai-automation-focus-at-eveonix-4396431866?position=1&pageNum=0&refId=OmPZEotlgeysZiyaLq7kIw%3D%3D&trackingId=xo%2BK1wFIaAmmtaR0vxZzmw%3D%3D
+Date : 2026-04-01
+
+[Cover letter generation failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZcrpiih1GKM1C7zFdXJ2'}]

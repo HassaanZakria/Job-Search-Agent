@@ -1,0 +1,5 @@
+Job  : Data Engineer, Tech @ ibex
+URL  : https://pk.linkedin.com/jobs/view/data-engineer-tech-at-ibex-4233293666?position=1&pageNum=0&refId=u8%2BtNcMipvcd2mu15R8c3g%3D%3D&trackingId=nBmeGWrlZ%2BIlZrkswiQd2w%3D%3D
+Date : 2026-05-25
+
+[Cover letter generation failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbNdu99MMy13qGnvon69k'}]

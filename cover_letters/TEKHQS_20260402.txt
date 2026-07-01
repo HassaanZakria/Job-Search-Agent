@@ -1,0 +1,5 @@
+Job  : AI/ML Engineer @ TEKHQS
+URL  : https://pk.linkedin.com/jobs/view/ai-ml-engineer-at-tekhqs-4392882587?position=1&pageNum=0&refId=7ilnW3bmKhNtyhniyjM%2FWQ%3D%3D&trackingId=OpW3Y7aXlYvzgW0Z5pQWgQ%3D%3D
+Date : 2026-04-02
+
+[Cover letter generation failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZeZE2Y3zPAfqmkuswwts'}]

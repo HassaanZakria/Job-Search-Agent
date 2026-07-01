@@ -1,0 +1,5 @@
+Job  : Data Scientist @ JiBe ERP
+URL  : https://pk.linkedin.com/jobs/view/data-scientist-at-jibe-erp-4394667534?position=1&pageNum=0&refId=NAQ3q68nr2%2FNtK%2FNJWT2Gg%3D%3D&trackingId=VxPkfcfC7zoXPfLKyKmWdQ%3D%3D
+Date : 2026-04-02
+
+[Cover letter generation failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZezAeQ7We5A14jY4gpcD'}]
