@@ -1,7 +1,7 @@
 # Job Search Agent 
 
 
-## Setup (do this once)
+## Setup
 
 ### 1. Open folder in VS Code
 File → Open Folder → select the `job_agent` folder
