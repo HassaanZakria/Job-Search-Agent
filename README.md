@@ -1,5 +1,5 @@
 # Job Search Agent 
-
+AI-powered job search agent that scrapes LinkedIn, Indeed, Rozee.pk, RemoteOK, and WeWorkRemotely daily — ranks results using Claude, generates tailored cover letters, and sends email alerts for new matches.
 
 ## Setup
 
